@@ -49,4 +49,4 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 
 
->View the [README within ./frontend for more details.](./frontend/README.md)
+>View the [README within ./frontend for more details.](https://github.com/deen257/Trivia-api/blob/master/starter/frontend/README.md)
